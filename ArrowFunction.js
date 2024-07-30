@@ -1,0 +1,6 @@
+const sky = (num) => num * num;
+console.log(sky(5));
+
+
+// if we want to return a parameter then we have to use curly braces...
+// with arrow function we can pass only one statement...
